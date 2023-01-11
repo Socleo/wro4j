@@ -45,7 +45,7 @@ public class TestBeautifyJsProcessor {
         throw e;
       }
     };
-    final Callable<Void> task = new Callable<>() {
+	final Callable<Void> task = new Callable<Void>() {
       @Override
       public Void call() {
         try {

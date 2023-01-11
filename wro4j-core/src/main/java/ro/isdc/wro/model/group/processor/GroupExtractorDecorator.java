@@ -3,7 +3,7 @@
  */
 package ro.isdc.wro.model.group.processor;
 
-import javax.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletRequest;
 
 import org.apache.commons.lang3.Validate;
 

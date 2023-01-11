@@ -4,7 +4,7 @@
  */
 package ro.isdc.wro.config.factory;
 
-import javax.servlet.FilterConfig;
+import jakarta.servlet.FilterConfig;
 
 import org.junit.Assert;
 import org.junit.Before;

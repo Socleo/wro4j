@@ -7,8 +7,8 @@ import static org.junit.Assert.assertEquals;
 
 import java.util.Properties;
 
-import javax.servlet.FilterConfig;
-import javax.servlet.ServletContext;
+import jakarta.servlet.FilterConfig;
+import jakarta.servlet.ServletContext;
 
 import org.junit.After;
 import org.junit.Assert;

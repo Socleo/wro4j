@@ -1,7 +1,7 @@
 package ro.isdc.wro.http.support;
 
-import javax.servlet.FilterConfig;
-import javax.servlet.ServletContext;
+import jakarta.servlet.FilterConfig;
+import jakarta.servlet.ServletContext;
 
 import org.apache.commons.lang3.Validate;
 import org.slf4j.Logger;

@@ -2,8 +2,8 @@ package ro.isdc.wro.http.support;
 
 import static org.junit.Assert.assertEquals;
 
-import javax.servlet.FilterConfig;
-import javax.servlet.ServletContext;
+import jakarta.servlet.FilterConfig;
+import jakarta.servlet.ServletContext;
 
 import org.junit.Assert;
 import org.junit.Before;

@@ -6,7 +6,7 @@ import java.io.ByteArrayInputStream;
 import java.io.StringWriter;
 import java.util.Properties;
 
-import javax.servlet.ServletContext;
+import jakarta.servlet.ServletContext;
 
 import org.apache.commons.io.output.WriterOutputStream;
 import org.junit.AfterClass;

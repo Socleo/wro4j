@@ -5,7 +5,7 @@ package ro.isdc.wro.http;
 
 import java.util.Properties;
 
-import javax.servlet.FilterConfig;
+import jakarta.servlet.FilterConfig;
 
 import org.apache.commons.lang3.BooleanUtils;
 

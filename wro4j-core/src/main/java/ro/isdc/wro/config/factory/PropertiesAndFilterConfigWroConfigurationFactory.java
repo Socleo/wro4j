@@ -6,7 +6,7 @@ package ro.isdc.wro.config.factory;
 
 import java.util.Properties;
 
-import javax.servlet.FilterConfig;
+import jakarta.servlet.FilterConfig;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

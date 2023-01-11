@@ -6,7 +6,7 @@ package ro.isdc.wro.manager.factory;
 import java.util.Map;
 import java.util.Properties;
 
-import javax.servlet.FilterConfig;
+import jakarta.servlet.FilterConfig;
 
 import org.apache.commons.lang3.Validate;
 import org.slf4j.Logger;

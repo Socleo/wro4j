@@ -8,7 +8,7 @@ import static org.apache.commons.lang3.Validate.notNull;
 
 import java.util.Properties;
 
-import javax.servlet.FilterConfig;
+import jakarta.servlet.FilterConfig;
 
 import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;

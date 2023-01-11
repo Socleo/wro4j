@@ -8,9 +8,9 @@ import static org.junit.Assert.assertEquals;
 import java.io.StringWriter;
 import java.util.concurrent.Callable;
 
-import javax.servlet.FilterConfig;
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
+import jakarta.servlet.FilterConfig;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletResponse;
 
 import org.apache.commons.io.output.WriterOutputStream;
 import org.junit.After;

@@ -3,7 +3,7 @@
  */
 package ro.isdc.wro.model.group;
 
-import javax.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletRequest;
 
 import org.apache.commons.io.FilenameUtils;
 import org.apache.commons.lang3.StringUtils;
@@ -27,7 +27,7 @@ public class DefaultGroupExtractor
   /**
    * The name of the attribute where the servlet path is stored when requestDispatcher.include is called.
    */
-  public static final String ATTR_INCLUDE_PATH = "javax.servlet.include.servlet_path";
+  public static final String ATTR_INCLUDE_PATH = "jakarta.servlet.include.servlet_path";
   /**
    * The name of the parameter used to decide if the group must be minimized.
    */

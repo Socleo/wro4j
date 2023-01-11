@@ -5,8 +5,8 @@ package ro.isdc.wro.config.factory;
 
 import java.util.Properties;
 
-import javax.servlet.FilterConfig;
-import javax.servlet.ServletContext;
+import jakarta.servlet.FilterConfig;
+import jakarta.servlet.ServletContext;
 
 import org.junit.Assert;
 import org.junit.Before;
